@@ -1,4 +1,4 @@
-# Piped-Regression
+# Pipelind-Regression
 
 The proposed technology introduces a novel regression technique based on advanced machine learning con-
 cepts. The model takes the dataset as input and generates predictions or estimations based on the input data.
